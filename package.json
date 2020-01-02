@@ -1,0 +1,25 @@
+{
+  "name": "angular-project-from-scratch",
+  "version": "1.0.0",
+  "description": "An Angular project created without the CLI",
+  "main": "index.js",
+  "author": "Jarrod Kallis <jarrod.kallis@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/animations": "~8.2.14",
+    "@angular/common": "~8.2.14",
+    "@angular/compiler": "~8.2.14",
+    "@angular/compiler-cli": "~8.2.14",
+    "@angular/core": "~8.2.14",
+    "@angular/forms": "~8.2.14",
+    "@angular/platform-browser": "~8.2.14",
+    "@angular/platform-browser-dynamic": "~8.2.14",
+    "@angular/platform-server": "~8.2.14",
+    "@angular/router": "~8.2.14",
+    "@angular/upgrade": "~8.2.14",
+    "core-js": "~3.6.1",
+    "rxjs": "~6.5.4",
+    "typescript": "~3.5.3",
+    "zone.js": "~0.9.1"
+  }
+}
